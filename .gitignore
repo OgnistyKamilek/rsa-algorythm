@@ -1,2 +1,4 @@
+#Ignore PyCharm specyfic files
+
 .venv
 .idea
